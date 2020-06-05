@@ -1,7 +1,12 @@
 ---
 title: "Jaime Ortiz"
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
 ---
 
 Let's science!
 
 ![](20200121_165307.jpeg)
+
