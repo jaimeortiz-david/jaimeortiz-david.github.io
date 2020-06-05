@@ -9,4 +9,6 @@ navbar:
           href: about.html
 output:
   html_document:
-    css: (["style.css","lux.css"])
+    theme: yeti
+    css: style.css
+    
