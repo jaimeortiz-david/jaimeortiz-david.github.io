@@ -9,4 +9,5 @@ navbar:
           href: about.html
 output:
   html_document:
-    theme: lux.css
+    theme: lux
+    css: style.css
