@@ -1,0 +1,10 @@
+name: "Jaime D. Ortiz-Pachar"
+output_dir: "."
+navbar:
+    title: "Jaime D. Ortiz-Pachar"
+    left:
+        - text: "Home"
+          href: index.html
+        - text: "About Me"
+          href: about.html
+    
