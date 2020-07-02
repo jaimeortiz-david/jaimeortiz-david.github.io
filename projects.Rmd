@@ -4,4 +4,4 @@ title: "Projects"
 
 #Biogeographical data visualization
 
-<iframe src="https://public.tableau.com/views/Biogeography_dashboard1/Dashboard1?:showVizHome=no&:embed=true&:toolbar=no" width="1000" height="900"><param name="filter" value=":original_view=yes"/></iframe>
+<iframe src="https://public.tableau.com/views/Biogeography_dashboard1/Dashboard1?:showVizHome=no&:embed=true&:toolbar=no" width="1000" height="900" allowfullscreen="true"><param name="filter" value=":original_view=yes"/></iframe>
